@@ -1,4 +1,4 @@
-# Oscilloscope and Analyser with javascript in HTML5
+# Audio Oscilloscope and Analyser with javascript
 With mp3 and oscillator inputs.
 
 The link:
